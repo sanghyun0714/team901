@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/medici/901/team901/mlruns/0/c6c754ff57cf4996b63afa7a3ba336c2/artifacts
+end_time: 1729488332854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6c754ff57cf4996b63afa7a3ba336c2
+run_name: Iris_LogisticRegression_GridSearch
+run_uuid: c6c754ff57cf4996b63afa7a3ba336c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729488326646
+status: 3
+tags: []
+user_id: medici
